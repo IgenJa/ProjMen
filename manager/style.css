@@ -1,0 +1,71 @@
+.cegek {
+    position: fixed;
+    top: 2%;
+    left: 2%;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 95%;
+    width: 20%;
+}
+
+.projektek {
+    position: fixed;
+    top: 2%;
+    left: 29%;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 95%;
+    width: 25%;
+}
+
+.feladatok {
+    position: fixed;
+    top: 2%;
+    left: 60%;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 95%;
+    width: 25%;
+}
+
+.plusszCegek,
+.plusszProjektek,
+.plusszFeladatok {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(168, 168, 168);
+}
+
+.plusszFeladatok:hover{
+    cursor: pointer;
+    background-color: rgb(192, 192, 192);
+}
+
+.plusszProjektek:hover{
+    cursor: pointer;
+    background-color: rgb(192, 192, 192);
+}
+
+.plusszCegek:hover{
+    cursor: pointer;
+    background-color: rgb(192, 192, 192);
+}
+
+.plusszFeladatok{
+    position: fixed;
+    top: 92%;
+    right: 15.5%;
+}
+
+.plusszProjektek{
+    position: fixed;
+    top: 92%;
+    right: 46.5%;
+}
+
+.plusszCegek{
+    position: fixed;
+    top: 92%;
+    right: 78.5%;
+}
