@@ -28,9 +28,8 @@ This is a web-based application designed to simplify project management. With a 
 To run the application, ensure you have the following installed:  
 - A compatible web server (e.g., Apache, Nginx)  
 - SQL Database (e.g., MySQL, PostgreSQL)  
-- [Node.js](https://nodejs.org/) (if applicable)  
 
 ### Installation  
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/yourusername/project-manager.git
+   git clone https://github.com/IgenJa/ProjMan.git
